@@ -10,7 +10,7 @@ const config = {
     TELEGRAM_CHAT_ID: "-1002869207745",
     
     // 服务配置
-    GITHUB_PAGES_URL: "https://yourusername.github.io/wecom-edgeone-proxy"
+    GITHUB_PAGES_URL: "https://jhk5263.github.io/wecom-edgeone-proxy"
 };
 
 // 导出配置
